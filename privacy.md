@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [August 3, 2023]
 
 ## Introduction
 
@@ -36,4 +36,4 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or the practices of the Extension, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy or the practices of the Extension, please contact us at wehrzorn@gmail.com
